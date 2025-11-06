@@ -1,0 +1,51 @@
+id,message,urgency_level,urgency_score,service_type
+1,"My baby isn't breathing and his lips are turning blue! Please help me, I don't know what to do!",critical,4,Fire Department
+2,The community garden project is coming along nicely. Everyone's been so helpful!,none,0,General info
+3,My toddler is choking on something and turning purple! I can't get it out and he's going limp!,critical,4,Fire Department
+4,My daughter fell off the monkey bars and hit her head. She's conscious but very disoriented and nauseous.,moderate,2,On-call doctor
+5,My wife is having a heart attack! She's clutching her chest and just lost consciousness!,critical,4,Fire Department
+6,My daughter fell off the monkey bars and hit her head. She's conscious but very disoriented and nauseous.,moderate,2,On-call doctor
+7,My daughter fell off the monkey bars and hit her head. She's conscious but very disoriented and nauseous.,moderate,2,On-call doctor
+8,I finished reading this incredible book today. Couldn't put it down all weekend!,none,0,Community line
+9,I think I lost my phone somewhere between the mall and my car. Can you help me track it?,low,1,Health hotline
+10,I baked my first successful sourdough bread today. It turned out perfectly crispy!,none,0,Community line
+11,My daughter fell off the monkey bars and hit her head. She's conscious but very disoriented and nauseous.,moderate,2,On-call doctor
+12,"My baby isn't breathing and his lips are turning blue! Please help me, I don't know what to do!",critical,4,EMS
+13,My neighbor brought over homemade cookies this afternoon. People can be so kind!,none,0,General info
+14,There's been a break-in at my shop. The window is smashed and items are missing.,moderate,2,On-call doctor
+15,My neighbor's music has been loud every night this week. It's making it hard to sleep.,low,1,Medical advice
+16,I have a mild cold with some congestion. Any advice on what I should take?,low,1,Health hotline
+17,There's a strong gas leak in the building! The smell is overwhelming and people are evacuating!,urgent,3,Fire Department
+18,My husband collapsed and has no pulse! I'm doing CPR but he's not responding at all!,critical,4,Police
+19,There's a massive fire and people are jumping from windows! The entire building is engulfed in flames!,critical,4,Fire Department
+20,Someone keeps parking in front of my driveway. It's becoming a regular problem.,low,1,Medical advice
+21,There's a massive fire spreading through the building! Flames are everywhere and people are trapped on upper floors!,urgent,3,EMS
+22,My son is having a severe asthma attack and can barely breathe! His inhaler isn't working at all!,urgent,3,Fire Department
+23,"I have a small rash on my arm that appeared yesterday. It's not itchy, just red.",low,1,Local police
+24,My son has a rash all over his chest after eating strawberries. It's spreading quickly and he's scratching a lot.,moderate,2,On-call doctor
+25,My son is having a severe asthma attack and can barely breathe! His inhaler isn't working at all!,urgent,3,Police
+26,"I have a small rash on my arm that appeared yesterday. It's not itchy, just red.",low,1,Health hotline
+27,There's a strong gas leak in the building! The smell is overwhelming and people are evacuating!,urgent,3,Fire Department
+28,Just completed my first 5K run this morning. Feeling accomplished and energized!,none,0,Community line
+29,My son is having a severe asthma attack and can barely breathe! His inhaler isn't working at all!,urgent,3,Fire Department
+30,I finished reading this incredible book today. Couldn't put it down all weekend!,none,0,N/A
+31,I have a mild cold with some congestion. Any advice on what I should take?,low,1,Local police
+32,There's a massive fire and people are jumping from windows! The entire building is engulfed in flames!,critical,4,Fire Department
+33,My husband is showing signs of a stroke! His face is drooping and he can't speak clearly or move his right arm!,urgent,3,Police
+34,My father is having severe difficulty breathing and his lips are turning blue! He's gasping for air!,urgent,3,Fire Department
+35,I think I lost my phone somewhere between the mall and my car. Can you help me track it?,low,1,Health hotline
+36,Someone just broke into my house while I was home! I'm locked in the bathroom and can hear them downstairs!,urgent,3,Fire Department
+37,My mother fell down a full flight of stairs! She's conscious but can't move and is in severe pain!,urgent,3,Police
+38,There's a small fire in my backyard from the grill. I've got the hose on it but need help containing it.,moderate,2,Police
+39,"My baby isn't breathing and his lips are turning blue! Please help me, I don't know what to do!",critical,4,EMS
+40,Just wanted to share that I saw the most beautiful sunset today at the park. Made my whole week better!,none,0,General info
+41,My toddler is choking on something and turning purple! I can't get it out and he's going limp!,critical,4,Police
+42,My elderly mother fell down three stairs. She's awake but can't put weight on her ankle.,moderate,2,Fire Department
+43,My son fell from the roof and isn't moving! His head is bleeding badly and he won't wake up!,critical,4,Police
+44,There's been a break-in at my shop. The window is smashed and items are missing.,moderate,2,Police
+45,My daughter just got accepted into her dream college. I'm so proud and excited!,none,0,General info
+46,My daughter just got accepted into her dream college. I'm so proud and excited!,none,0,N/A
+47,My husband has been vomiting non-stop for six hours. He can't keep any fluids down and looks dehydrated.,moderate,2,Fire Department
+48,My cat learned a new trick today. She's such a smart little thing!,none,0,Community line
+49,Someone keeps parking in front of my driveway. It's becoming a regular problem.,low,1,Local police
+50,There's a stray dog wandering around our street. It looks friendly but has no collar.,low,1,Local police
