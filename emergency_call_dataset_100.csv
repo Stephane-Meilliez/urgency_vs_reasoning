@@ -1,0 +1,101 @@
+id,message,urgency_level,urgency_score,service_type
+1,I was bitten by a neighbor's dog on my leg. It broke the skin and is bleeding steadily.,moderate,2,On-call doctor
+2,I think I lost my phone somewhere between the mall and my car. Can you help me track it?,low,1,Medical advice
+3,My daughter is drowning in the pool! I just pulled her out but she's not breathing and completely limp!,critical,4,EMS
+4,The farmers market had the freshest produce today. Supporting local is so rewarding!,none,0,Community line
+5,My husband is showing signs of a stroke! His face is drooping and he can't speak clearly or move his right arm!,urgent,3,Fire Department
+6,"I have a small rash on my arm that appeared yesterday. It's not itchy, just red.",low,1,Local police
+7,I've had this mild headache for three days now. Should I be concerned about it?,low,1,Health hotline
+8,My husband has been vomiting non-stop for six hours. He can't keep any fluids down and looks dehydrated.,moderate,2,Police
+9,My toddler is choking on something and turning purple! I can't get it out and he's going limp!,critical,4,EMS
+10,"I have a small rash on my arm that appeared yesterday. It's not itchy, just red.",low,1,Medical advice
+11,"My ankle has been slightly swollen since yesterday. No pain, just looks puffy.",low,1,Health hotline
+12,I've had this mild headache for three days now. Should I be concerned about it?,low,1,Health hotline
+13,My daughter just got accepted into her dream college. I'm so proud and excited!,none,0,Community line
+14,My son fell from the roof and isn't moving! His head is bleeding badly and he won't wake up!,critical,4,EMS
+15,I have a mild cold with some congestion. Any advice on what I should take?,low,1,Medical advice
+16,I have a mild cold with some congestion. Any advice on what I should take?,low,1,Medical advice
+17,"My baby isn't breathing and his lips are turning blue! Please help me, I don't know what to do!",critical,4,Police
+18,There's been a break-in at my shop. The window is smashed and items are missing.,moderate,2,On-call doctor
+19,My son is having a severe asthma attack and can barely breathe! His inhaler isn't working at all!,urgent,3,Police
+20,I finished reading this incredible book today. Couldn't put it down all weekend!,none,0,Community line
+21,My father is having severe difficulty breathing and his lips are turning blue! He's gasping for air!,urgent,3,Fire Department
+22,"My throat has been scratchy for about five days. No fever, just annoying.",low,1,Health hotline
+23,My neighbor brought over homemade cookies this afternoon. People can be so kind!,none,0,General info
+24,Someone's been shot in the chest! There's blood everywhere and they're losing consciousness!,critical,4,EMS
+25,I finished reading this incredible book today. Couldn't put it down all weekend!,none,0,N/A
+26,My mother fell down a full flight of stairs! She's conscious but can't move and is in severe pain!,urgent,3,Police
+27,There's a massive fire spreading through the building! Flames are everywhere and people are trapped on upper floors!,urgent,3,Police
+28,The basement is flooding rapidly from a burst pipe. Water is already ankle-deep and rising.,moderate,2,Fire Department
+29,My mother fell down a full flight of stairs! She's conscious but can't move and is in severe pain!,urgent,3,Fire Department
+30,My baby has a temperature of 104 degrees. We gave him medicine but it's not coming down.,moderate,2,On-call doctor
+31,There's a massive fire spreading through the building! Flames are everywhere and people are trapped on upper floors!,urgent,3,Police
+32,"I have a small rash on my arm that appeared yesterday. It's not itchy, just red.",low,1,Health hotline
+33,My wife is having severe chest pain radiating down her left arm. She's sweating and very pale!,urgent,3,Police
+34,Just wanted to share that I saw the most beautiful sunset today at the park. Made my whole week better!,none,0,N/A
+35,My husband collapsed and has no pulse! I'm doing CPR but he's not responding at all!,critical,4,Fire Department
+36,My baby has a temperature of 104 degrees. We gave him medicine but it's not coming down.,moderate,2,On-call doctor
+37,There's a massive fire spreading through the building! Flames are everywhere and people are trapped on upper floors!,urgent,3,Fire Department
+38,There's a small fire in my backyard from the grill. I've got the hose on it but need help containing it.,moderate,2,Police
+39,I baked my first successful sourdough bread today. It turned out perfectly crispy!,none,0,N/A
+40,There's a strong gas leak in the building! The smell is overwhelming and people are evacuating!,urgent,3,Fire Department
+41,There's a stray dog wandering around our street. It looks friendly but has no collar.,low,1,Medical advice
+42,There's an active shooter in the building! Multiple people have been shot and he's still firing!,critical,4,EMS
+43,There's a stray dog wandering around our street. It looks friendly but has no collar.,low,1,Health hotline
+44,My daughter is drowning in the pool! I just pulled her out but she's not breathing and completely limp!,critical,4,Fire Department
+45,My husband has been vomiting non-stop for six hours. He can't keep any fluids down and looks dehydrated.,moderate,2,Fire Department
+46,There's a massive fire and people are jumping from windows! The entire building is engulfed in flames!,critical,4,Police
+47,My daughter fell off the monkey bars and hit her head. She's conscious but very disoriented and nauseous.,moderate,2,Police
+48,My cat learned a new trick today. She's such a smart little thing!,none,0,General info
+49,There's a small fire in my backyard from the grill. I've got the hose on it but need help containing it.,moderate,2,Fire Department
+50,The basement is flooding rapidly from a burst pipe. Water is already ankle-deep and rising.,moderate,2,Police
+51,The farmers market had the freshest produce today. Supporting local is so rewarding!,none,0,Community line
+52,There's a small fire in my backyard from the grill. I've got the hose on it but need help containing it.,moderate,2,On-call doctor
+53,There's a massive fire and people are jumping from windows! The entire building is engulfed in flames!,critical,4,EMS
+54,Just wanted to share that I saw the most beautiful sunset today at the park. Made my whole week better!,none,0,General info
+55,My son is having a severe asthma attack and can barely breathe! His inhaler isn't working at all!,urgent,3,Police
+56,The flowers in my garden are blooming so nicely this year. Spring is really my favorite season!,none,0,Community line
+57,My wife is having severe chest pain radiating down her left arm. She's sweating and very pale!,urgent,3,Fire Department
+58,My son has a rash all over his chest after eating strawberries. It's spreading quickly and he's scratching a lot.,moderate,2,Police
+59,My toddler is choking on something and turning purple! I can't get it out and he's going limp!,critical,4,Police
+60,There's an active shooter in the building! Multiple people have been shot and he's still firing!,critical,4,Fire Department
+61,My neighbor brought over homemade cookies this afternoon. People can be so kind!,none,0,Community line
+62,The community garden project is coming along nicely. Everyone's been so helpful!,none,0,General info
+63,There's a small fire in my backyard from the grill. I've got the hose on it but need help containing it.,moderate,2,Police
+64,I have a mild cold with some congestion. Any advice on what I should take?,low,1,Local police
+65,My newborn stopped breathing completely! She's limp and not responding to anything I do!,critical,4,Fire Department
+66,I've had this mild headache for three days now. Should I be concerned about it?,low,1,Medical advice
+67,There's a strong gas leak in the building! The smell is overwhelming and people are evacuating!,urgent,3,Police
+68,My newborn stopped breathing completely! She's limp and not responding to anything I do!,critical,4,Fire Department
+69,My son is having a severe asthma attack and can barely breathe! His inhaler isn't working at all!,urgent,3,EMS
+70,I finished reading this incredible book today. Couldn't put it down all weekend!,none,0,Community line
+71,My wife is having severe chest pain radiating down her left arm. She's sweating and very pale!,urgent,3,Police
+72,My son is having a severe asthma attack and can barely breathe! His inhaler isn't working at all!,urgent,3,Fire Department
+73,I've had this mild headache for three days now. Should I be concerned about it?,low,1,Medical advice
+74,My teenage daughter took a whole bottle of pills! She's barely conscious and I can't wake her up properly!,urgent,3,EMS
+75,Just wanted to share that I saw the most beautiful sunset today at the park. Made my whole week better!,none,0,Community line
+76,My newborn stopped breathing completely! She's limp and not responding to anything I do!,critical,4,EMS
+77,I was bitten by a neighbor's dog on my leg. It broke the skin and is bleeding steadily.,moderate,2,Police
+78,My neighbor brought over homemade cookies this afternoon. People can be so kind!,none,0,General info
+79,My neighbor's music has been loud every night this week. It's making it hard to sleep.,low,1,Health hotline
+80,Just wanted to share that I saw the most beautiful sunset today at the park. Made my whole week better!,none,0,N/A
+81,My neighbor's music has been loud every night this week. It's making it hard to sleep.,low,1,Local police
+82,There's a massive fire and people are jumping from windows! The entire building is engulfed in flames!,critical,4,Fire Department
+83,I was bitten by a neighbor's dog on my leg. It broke the skin and is bleeding steadily.,moderate,2,Police
+84,My elderly mother fell down three stairs. She's awake but can't put weight on her ankle.,moderate,2,On-call doctor
+85,My son has a rash all over his chest after eating strawberries. It's spreading quickly and he's scratching a lot.,moderate,2,On-call doctor
+86,My teenage daughter took a whole bottle of pills! She's barely conscious and I can't wake her up properly!,urgent,3,Police
+87,My father is having severe difficulty breathing and his lips are turning blue! He's gasping for air!,urgent,3,Fire Department
+88,There's an active shooter in the building! Multiple people have been shot and he's still firing!,critical,4,Fire Department
+89,I've had this mild headache for three days now. Should I be concerned about it?,low,1,Health hotline
+90,There's an active shooter in the building! Multiple people have been shot and he's still firing!,critical,4,EMS
+91,There's a massive fire and people are jumping from windows! The entire building is engulfed in flames!,critical,4,Police
+92,My son has a rash all over his chest after eating strawberries. It's spreading quickly and he's scratching a lot.,moderate,2,Police
+93,Just wanted to share that I saw the most beautiful sunset today at the park. Made my whole week better!,none,0,Community line
+94,The community garden project is coming along nicely. Everyone's been so helpful!,none,0,N/A
+95,My son fell from the roof and isn't moving! His head is bleeding badly and he won't wake up!,critical,4,EMS
+96,There's a strong gas leak in the building! The smell is overwhelming and people are evacuating!,urgent,3,EMS
+97,I finished reading this incredible book today. Couldn't put it down all weekend!,none,0,Community line
+98,I think I lost my phone somewhere between the mall and my car. Can you help me track it?,low,1,Medical advice
+99,There's a small fire in my backyard from the grill. I've got the hose on it but need help containing it.,moderate,2,Fire Department
+100,There's a stray dog wandering around our street. It looks friendly but has no collar.,low,1,Local police
